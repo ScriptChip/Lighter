@@ -11,3 +11,9 @@
 - [Installation](#installation)
   - [Windows](#installation-windows)
   - [Linux](#installation-linux)
+
+## About
+
+Lighter is a high level programming language, that includes
+- Package manager
+- Files integration
