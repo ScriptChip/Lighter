@@ -14,8 +14,6 @@ do(
     print("world")
 )
 ```
-<br>
 In such way you can run as many functions as you want, but remember to put comma after every function inside `do()`!<br>
-<br>
 `define()` defines new or overwrites already existing variable<br>
 `define(hello, 10)` defines a variable with name "hello" with value of Number 10<br>
