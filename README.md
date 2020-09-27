@@ -17,3 +17,7 @@
 Lighter is a high level programming language, that includes
 - Package manager
 - Files integration
+
+## Examples
+
+Examples of lighter files are located in 
