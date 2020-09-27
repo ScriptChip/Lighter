@@ -7,7 +7,7 @@
 </div>
 
 # Table of contents
-- About
-- Installation
-  -Windows
-  -Linux
+- [About](#about)
+- [Installation](#installation)
+  - [Windows](#installation-windows)
+  - [Linux](#installation-linux)
