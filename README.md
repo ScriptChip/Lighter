@@ -20,4 +20,4 @@ Lighter is a high level programming language, that includes
 
 ## Examples
 
-Examples of lighter files are located in 
+Examples of lighter files are located in <a href="https://github.com/ScriptChip/Lighter/examples" title="Navigate to examples folder">examples</a> folder
