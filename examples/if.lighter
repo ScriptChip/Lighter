@@ -1,0 +1,11 @@
+do(
+    define(VeryUsefulVariable, 10),
+    if(==(VeryUsefulVariable, 10),
+        do(
+            print("Ok, we are good")
+        ),
+        do(
+            print("ALERT! 10 IS NOT EQUAL TO 10 :0")
+        )
+    )
+)
