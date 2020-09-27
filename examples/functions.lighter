@@ -1,0 +1,7 @@
+do(
+    function("test", do(
+        print("Function works!")
+    )),
+    call("test"),
+    call("test")
+)
