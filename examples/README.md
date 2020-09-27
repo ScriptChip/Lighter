@@ -37,3 +37,17 @@ if(==(10, 10),
 )
 ```
 You can use all of this operators: `==, <, >`
+
+## <a href="https://github.com/ScriptChip/Lighter/blob/master/examples/functions.lighter">Functions</a>
+Implementing another 2 functions: `function()` and `call()`
+`function()` function defines a new function, here is how to use it:
+```function("test", do(
+    print("Hi!")
+))
+```
+Our function with name of "test" has been defined!
+Now we want to call it
+To do taht, use `call()` function, as shown here:
+```
+call("test")
+```
