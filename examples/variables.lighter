@@ -1,0 +1,4 @@
+do(
+    define(tester, 10),
+    print(tester)
+)
