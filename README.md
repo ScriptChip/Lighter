@@ -21,7 +21,8 @@ Lighter is a high level programming language, that includes
 - Files integration
 <br>
 Show that you are using Lighter!<br>
-<p style="display: inline-block;"><img src="https://img.shields.io/badge/Written%20in-Lighter-orange" /> `https://img.shields.io/badge/Written%20in-Lighter-orange`</p>
+<img src="https://img.shields.io/badge/Written%20in-Lighter-orange" /><br>
+`https://img.shields.io/badge/Written%20in-Lighter-orange`
 
 ## Examples
 
