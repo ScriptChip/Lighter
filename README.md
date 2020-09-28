@@ -19,9 +19,9 @@
 Lighter is a high level programming language, that includes
 - Package manager
 - Files integration
-
-Show that you are using Lighter!
-<img src="https://img.shields.io/badge/Written%20in-Lighter-orange" /> `https://img.shields.io/badge/Written%20in-Lighter-orange`
+<br>
+Show that you are using Lighter!<br>
+<p style="display: inline-block;"><img src="https://img.shields.io/badge/Written%20in-Lighter-orange" /> `https://img.shields.io/badge/Written%20in-Lighter-orange`</p>
 
 ## Examples
 
