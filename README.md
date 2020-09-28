@@ -20,6 +20,9 @@ Lighter is a high level programming language, that includes
 - Package manager
 - Files integration
 
+Show that you are using Lighter!
+<img src="https://img.shields.io/badge/Written%20in-Lighter-orange" /> `https://img.shields.io/badge/Written%20in-Lighter-orange`
+
 ## Examples
 
 Examples of lighter files are located in <a href="https://github.com/ScriptChip/Lighter/tree/master/examples" title="Navigate to examples folder">examples</a> folder
