@@ -23,7 +23,7 @@ Lighter is a high level programming language, that includes
 Show that you are using Lighter!<br>
 <img src="https://img.shields.io/badge/Written%20in-Lighter-orange" />
 <br>
-`https://img.shields.io/badge/Written%20in-Lighter-orange`
+` https://img.shields.io/badge/Written%20in-Lighter-orange `
 
 ## Examples
 
